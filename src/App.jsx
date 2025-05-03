@@ -30,7 +30,7 @@ const App = () => {
           </div>
           <div
             className="bg-[#202020] m-1 rounded-xl flex space-x-5 p-4
-          font-bold text-2xl cursor-pointer text-yellow-400"
+          font-bold text-2xl cursor-pointer text-teal-500"
           >
             JavaScript
           </div>
@@ -68,13 +68,13 @@ const App = () => {
           </div>
           <div
             className="bg-[#202020] m-1 rounded-xl flex space-x-5 p-4
-          font-bold text-2xl cursor-pointer text-neutral-400"
+          font-bold text-2xl cursor-pointer text-red-600"
           >
             R programming 
           </div>
           <div
             className="bg-[#202020] m-1 rounded-xl flex space-x-5 p-4
-          font-bold text-2xl cursor-pointer text-green-600"
+          font-bold text-2xl cursor-pointer text-yellow-600"
           >
             Python
           </div>
