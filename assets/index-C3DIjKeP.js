@@ -121,11 +121,11 @@ Error generating stack: `+u.message+`
     bg-[#181818] text-neutral-200`,children:Tl.jsxs("div",{className:"w-[50%] flex flex-col",children:[Tl.jsxs("div",{className:"flex space-y-2 flex-col text-center mb-14",children:[Tl.jsx("span",{className:"text-5xl font-bold",children:"My Skills"}),Tl.jsx("span",{className:"text-2xl",children:"These are the skills I have acquired over the years."})]}),Tl.jsxs(fv,{pauseOnHover:!0,children:[Tl.jsx("div",{className:`bg-[#202020] m-1 rounded-xl flex space-x-5 p-4
           font-bold text-2xl cursor-pointer text-orange-400`,children:"HTML"}),Tl.jsx("div",{className:`bg-[#202020] m-1 rounded-xl flex space-x-5 p-4
           font-bold text-2xl cursor-pointer text-purple-800`,children:"Css"}),Tl.jsx("div",{className:`bg-[#202020] m-1 rounded-xl flex space-x-5 p-4
-          font-bold text-2xl cursor-pointer text-yellow-400`,children:"JavaScript"}),Tl.jsx("div",{className:`bg-[#202020] m-1 rounded-xl flex space-x-5 p-4
+          font-bold text-2xl cursor-pointer text-teal-500`,children:"JavaScript"}),Tl.jsx("div",{className:`bg-[#202020] m-1 rounded-xl flex space-x-5 p-4
           font-bold text-2xl cursor-pointer text-blue-400`,children:"React"}),Tl.jsx("div",{className:`bg-[#202020] m-1 rounded-xl flex space-x-5 p-4
           font-bold text-2xl cursor-pointer text-pink-700`,children:"Vite"}),Tl.jsx("div",{className:`bg-[#202020] m-1 rounded-xl flex space-x-5 p-4
           font-bold text-2xl cursor-pointer text-neutral-400`,children:"Tailwindcss"})]}),Tl.jsxs(fv,{autoFill:!0,pauseOnHover:!0,direction:"right",children:[Tl.jsx("div",{className:`bg-[#202020] m-1 rounded-xl flex space-x-5 p-4
           font-bold text-2xl cursor-pointer text-green-400`,children:"Nodejs"}),Tl.jsx("div",{className:`bg-[#202020] m-1 rounded-xl flex space-x-5 p-4
           font-bold text-2xl cursor-pointer text-blue-500`,children:"Github"}),Tl.jsx("div",{className:`bg-[#202020] m-1 rounded-xl flex space-x-5 p-4
-          font-bold text-2xl cursor-pointer text-neutral-400`,children:"R programming"}),Tl.jsx("div",{className:`bg-[#202020] m-1 rounded-xl flex space-x-5 p-4
-          font-bold text-2xl cursor-pointer text-green-600`,children:"Python"})]})]})});Zy.createRoot(document.getElementById("root")).render(Tl.jsx(qy.StrictMode,{children:Tl.jsx(Ly,{})}));
+          font-bold text-2xl cursor-pointer text-red-600`,children:"R programming"}),Tl.jsx("div",{className:`bg-[#202020] m-1 rounded-xl flex space-x-5 p-4
+          font-bold text-2xl cursor-pointer text-yellow-600`,children:"Python"})]})]})});Zy.createRoot(document.getElementById("root")).render(Tl.jsx(qy.StrictMode,{children:Tl.jsx(Ly,{})}));
